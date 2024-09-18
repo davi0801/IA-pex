@@ -1,1 +1,0 @@
-const nomes = ["Lionel Messi","Bernardo","Felipe","Yuri","Cristiano","Rian Lara","Joao"]
